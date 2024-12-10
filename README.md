@@ -1,8 +1,8 @@
-# keep_it_cool
+# KeepItCool
 
 KeepItCool - the Ruby gem for the Keep it Cool API
 
-
+[![Ruby](https://github.com/bistromd/keepitcool/actions/workflows/ruby.yml/badge.svg)](https://github.com/bistromd/keepitcool/actions/workflows/ruby.yml)
 
 ## URLs
 
